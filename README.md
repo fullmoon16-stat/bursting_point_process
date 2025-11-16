@@ -24,4 +24,4 @@ This repository contains the R code and data used to produce the results in the 
   - `sequence`: event index (1–54); corresponds to the event number in Table 1  
   - `timeline`: original event time as in the NERC report and Table 1  
   - `second`: elapsed time in seconds from the first event  
-  - `Tn`: inter-event time in seconds between consecutive events
+  - `Tn`: inter-arrival time in seconds between consecutive events
