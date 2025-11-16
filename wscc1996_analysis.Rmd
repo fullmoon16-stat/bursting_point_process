@@ -2,6 +2,8 @@
 title: "WSCC 1996 cascading failure analysis"
 output: html_document
 ---
+This R Markdown file reproduces Figures 3–6 and Tables 2–5 in the paper
+using the data `wscc1996_cascading_events.csv`.
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
