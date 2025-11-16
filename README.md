@@ -1,6 +1,6 @@
 # bursting_point_process
 
-# Code and data for "Discussing Cascading Failures: the Bursting Point Processes Approach"
+## Code and data for "Discussing Cascading Failures: the Bursting Point Processes Approach"
 
 This repository contains the R code and data used to produce the results in the manuscript:
 
